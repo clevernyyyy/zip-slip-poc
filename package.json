@@ -1,0 +1,14 @@
+{
+  "name": "zip-slip-poc",
+  "version": "1.0.0",
+  "description": "Proof of Concept for a Zip Slip Vulnerability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clevernyyyy",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.4.7"
+  }
+}
